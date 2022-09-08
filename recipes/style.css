@@ -1,0 +1,21 @@
+body {
+ background-color: bisque;
+ text-align: center;
+}
+h3 {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20px;
+}
+ul,
+ol,
+h4 {
+ text-align: left;
+}
+#title-head {
+ background-color: bisque;
+ opacity: .6;
+ 
+ }
