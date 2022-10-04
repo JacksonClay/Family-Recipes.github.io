@@ -7,3 +7,20 @@ Hopefully in the end I can keep and share this with friends and family not only 
 my recipes but to show how I started on my coding journey. 08/28/2022
 
 My plan for this is still the same.  I need to do quite a lot of cooking to continue with this project and at the moment I just don’t have time for that. All of the pictures need to be re-done with photos of our food that we have cooked. Additionally, I need to update the style of the web pages and make them a little easier on the eyes. In time this will develop to have different pages for appetizers, desserts, meal preps for camping and outdoor adventures. It’s going to be never ending. 10/3/2022
+
+# Contributions
+
+For now and most likely forever this repository will be updated by only myself as I continue in this field and learn along the way. 
+
+# ***View*** ***My*** ***Page***
+[Family Recipes](https://jacksonclay.github.io/Family-Recipes.github.io/)
+
+# **Contact**
+
+If for any reason at all you feel like reching out to me, you can do so through any of the following options: <br>
+
+**Gmail:** jacksoncsoter@gmail.com <br>
+
+**Twitter:** @Jackson_Clay_ <br>
+
+**LnkedIn:** Jackson Soter <br>
